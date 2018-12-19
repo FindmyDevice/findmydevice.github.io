@@ -1,4 +1,5 @@
-# findmydevice.github.io<?php
+# findmydevice.github.io
+<?php
 class FindMyiPhone {
 	private $username;
 	private $password;
